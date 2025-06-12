@@ -1,6 +1,6 @@
 package Java_HW_Programs;
 
-public class TableOfNine {
+public class Lab035_TableOfNine {
     public static void main(String[] args) {
         int num = 9;
         int i = 1;
