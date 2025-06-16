@@ -1,6 +1,6 @@
 package ex_07_UserInput;
 
-public class Lab_UserInput_CLI {
+public class Lab068_UserInput_CLI {
     public static void main(String[] args) {
 
        /* int age = 65;

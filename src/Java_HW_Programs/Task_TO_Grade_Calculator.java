@@ -1,6 +1,6 @@
 package Java_HW_Programs;
 
-public class Lab070_TO_Grade_Calculator {
+public class Task_TO_Grade_Calculator {
     //Marks 90 = A+, 75 = A, 60 = B, 40 = C, below 40 Fail.
     public static void main(String[] args) {
         int marks = 35; // Example marks

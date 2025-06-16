@@ -1,6 +1,6 @@
 package Java_HW_Programs;
 
-public class Lab073_Typecast_Char_To_ASCII {
+public class Task_Typecast_Char_To_ASCII {
     public static void main(String[] args) {
         char character = 'A';
         int asciiValue = (int)character;

@@ -1,6 +1,6 @@
 package Java_HW_Programs;
 
-public class Lab069_Even_Odd_No {
+public class Task_Even_Odd_No {
     public static void main(String[] args) {
         int a = 19;
         String result = (a % 2 == 0) ? "Even" : "Odd";

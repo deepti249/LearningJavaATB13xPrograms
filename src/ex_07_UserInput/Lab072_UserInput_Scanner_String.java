@@ -1,10 +1,8 @@
 package ex_07_UserInput;
 
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.Scanner;
 
-public class Lab_UserInput_Scanner_String {
+public class Lab072_UserInput_Scanner_String {
     public static void main(String[] args) {
         System.out.println("Enter the String ");
         Scanner scanner = new Scanner(System.in);

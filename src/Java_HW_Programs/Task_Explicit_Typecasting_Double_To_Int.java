@@ -1,6 +1,6 @@
 package Java_HW_Programs;
 
-public class Lab072_Explicit_Typecasting_Double_To_Int {
+public class Task_Explicit_Typecasting_Double_To_Int {
     public static void main(String[] args) {
         //Casts a double to an int, cutting off decimals value.
         double doubleValue = 123.456;

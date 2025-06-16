@@ -1,6 +1,6 @@
 package ex_07_UserInput;
 
-public class Lab_UserInput_CLI_Exception {
+public class Lab069_UserInput_CLI_Exception {
     public static void main(String[] args) {
         //If we don't pass argument in Edit configuration then we will get
         // java.lang.ArrayIndexOutOfBoundsException
