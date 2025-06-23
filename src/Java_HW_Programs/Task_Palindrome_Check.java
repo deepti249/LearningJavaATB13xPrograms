@@ -2,6 +2,12 @@ package Java_HW_Programs;
 
 import java.util.Scanner;
 
+//  Palindrome
+//  madam ->  reverse(madam) -> madam
+//  s1 = madam
+// s1_reverse = madam
+//  s1 == s1_reverse
+
 public class Task_Palindrome_Check {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -16,7 +22,7 @@ public class Task_Palindrome_Check {
 
         // Reverse the string
         for (int i = original.length() - 1; i >= 0; i--) {
-            reversed += original.charAt(i);
+            reversed =  reversed + original.charAt(i);
         }
 
         // Check if original and reversed strings are the same
