@@ -2,8 +2,7 @@ package Test_Coding1;
 
 public class Task_Increment_Op_Diff {
     public static void main(String[] args) {
-        //Pre-increment
-        int a = 10;
+        int a = 10;//Pre-increment
         int result = ++a; // 10 + 1 -> 11
         System.out.println(a); //11
         System.out.println(result); //11
@@ -12,6 +11,7 @@ public class Task_Increment_Op_Diff {
         //  6 |  11 | 11
         //  7 |  11 | NA
         //  8 | NA | 11
+
         //Post increment
         int b = 10;
         int result1 = b++; //10
