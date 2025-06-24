@@ -30,12 +30,13 @@ public class Task_All_Operators {
 
         // 4. Unary Operators
         System.out.println("\nUnary Operators:");
-        int d = 5;
+        int d = 5, e = 5;
         System.out.println("d = " + d);
         System.out.println("++d = " + (++d)); // Pre-increment
         System.out.println("d++ = " + (d++)); // Post-increment
-        System.out.println("--d = " + (--d)); // Pre-decrement
-        System.out.println("d-- = " + (d--)); // Post-decrement
+        System.out.println("e = " + e);
+        System.out.println("--e = " + (--e)); // Pre-decrement
+        System.out.println("e-- = " + (e--)); // Post-decrement
 
         // 5. Ternary Operator
         System.out.println("\nTernary Operator:");
