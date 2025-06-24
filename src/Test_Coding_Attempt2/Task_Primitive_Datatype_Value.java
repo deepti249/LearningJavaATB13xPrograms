@@ -1,8 +1,6 @@
 package Test_Coding_Attempt2;
 
-//Integer: 25 Double: 3.14 Boolean: true Character: A
-
-public class Task_Primitive_Datatype {
+public class Task_Primitive_Datatype_Value {
     public static void main(String[] args) {
         int intVar = 25;
         double doubleVar = 3.14;
