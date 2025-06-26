@@ -8,5 +8,10 @@ public class Lab136_String_Immutable {
 
         name = name.toUpperCase();//PRAMOD
         System.out.println(name);
+
+        /*String s1 = "Hello";
+        String s2 = s1.concat(" World");
+        System.out.println(s1);
+        System.out.println(s2);*/
     }
 }
