@@ -1,5 +1,7 @@
 package Task_23June;
 
+import java.util.Scanner;
+
 public class NumberPositiveOrNegative {
     public static void main(String[] args) {
         // If the number is greater than 0 → it's positive.

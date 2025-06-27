@@ -1,5 +1,7 @@
 package Task_23June;
 
+import java.util.Scanner;
+
 public class NumberEvenOrOdd {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
