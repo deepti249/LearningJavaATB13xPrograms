@@ -29,11 +29,11 @@ public class PalindromeString {
 
         if(org_string.equals(rev))
         {
-            System.out.println(org_string + " is Palindrom String");
+            System.out.println(org_string + " is Palindrome");
         }
         else
         {
-            System.out.println(org_string + " is not Palindrom String");
+            System.out.println(org_string + " is not Palindrome");
         }
     }
 }
