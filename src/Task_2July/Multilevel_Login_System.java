@@ -1,4 +1,11 @@
 package Task_2July;
+/*
+Create a class User with a method login().
+Extend it with a class AdminUser that adds a method accessAdminPanel().
+Then create a SuperAdmin class that extends AdminUser and adds a method shutdownSystem().
+
+Use an object of SuperAdmin to call all three methods.
+ */
 
 public class Multilevel_Login_System {
     public static void main(String[] args) {
