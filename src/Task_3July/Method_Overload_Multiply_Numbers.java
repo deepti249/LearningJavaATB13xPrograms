@@ -1,5 +1,15 @@
 package Task_3July;
 
+/*
+ Task 3: Multiply Numbers
+Title: Multiply using overloaded methods
+Description:
+Create a class MathOperations with two multiply() methods:
+One takes two integers and returns the product
+Another takes three integers and returns their product
+This helps students understand how Java distinguishes methods based on parameter count.
+ */
+
 public class Method_Overload_Multiply_Numbers {
     public static void main(String[] args)
     {
