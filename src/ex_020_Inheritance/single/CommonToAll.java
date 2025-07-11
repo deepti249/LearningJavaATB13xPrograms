@@ -1,4 +1,4 @@
-package ex_019_OOPS_Constructor;
+package ex_020_Inheritance.single;
 
 public class CommonToAll {
     void startBrowser(){
