@@ -31,12 +31,12 @@ public class Question_7 {
 
         System.out.println("the value of b is " +b);
 
-        System.out.println("what will be the value of "+ b++);
+        System.out.println("what will be the value of b "+ b++);
 
-        System.out.println("what will be the value of "+ ++b);
+        System.out.println("what will be the value of b "+ ++b);
 
-        System.out.println("what will be the value of "+ b--);
+        System.out.println("what will be the value of b "+ b--);
 
-        System.out.println("what will be the value of "+ --b);
+        System.out.println("what will be the value of b "+ --b);
     }
 }
