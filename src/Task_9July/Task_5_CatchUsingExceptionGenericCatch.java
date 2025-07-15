@@ -13,11 +13,11 @@ public class Task_5_CatchUsingExceptionGenericCatch {
             // Uncomment one of the lines below to test different exceptions:
 
             // 1. ArithmeticException
-            int result = 10 / 0;
+            //int result = 10 / 0;
 
             // 2. NullPointerException
-            // String str = null;
-            // System.out.println(str.length());
+             String str = null;
+             System.out.println(str.length());
 
         } catch (Exception e)
         {

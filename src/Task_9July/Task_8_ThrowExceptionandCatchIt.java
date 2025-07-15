@@ -8,6 +8,7 @@ Manually throw an exception using throw new ArithmeticException() and catch it.
 public class Task_8_ThrowExceptionandCatchIt {
     public static void main(String[] args)
     {
+
         try
         {
             // Manually throwing an exception

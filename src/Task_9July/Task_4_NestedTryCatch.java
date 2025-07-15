@@ -14,7 +14,6 @@ public class Task_4_NestedTryCatch {
             // Outer try block - can catch ArithmeticException
             int a = 10, b = 0;
             int result = a / b; // This line will throw ArithmeticException
-
             try
             {
                 // Inner try block - can catch ArrayIndexOutOfBoundsException
@@ -29,7 +28,6 @@ public class Task_4_NestedTryCatch {
         {
             System.out.println("Outer catch: Cannot divide by zero.");
         }
-
         System.out.println("Program continues after nested try-catch blocks.");
     }
 }

@@ -18,7 +18,7 @@ public class Task_1_BasicTryCatchwithArithmeticException {
             System.out.println("Result: " + result);
         } catch (ArithmeticException e)
         {
-            System.out.println("Cannot divide by zero. Please check your arithmetic operation.");
+            System.out.println("Cannot divide by zero");
         }
 
     }
