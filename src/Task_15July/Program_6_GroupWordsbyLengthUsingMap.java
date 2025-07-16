@@ -1,7 +1,7 @@
 package Task_15July;
 /*
 6. Program: Group Words by Length Using Map
-📘 Description:
+Description:
 Group words based on their length using Map<Integer, List<String>>.
 Input: ["Java", "is", "fun", "cool", "Hi"]
 Output:

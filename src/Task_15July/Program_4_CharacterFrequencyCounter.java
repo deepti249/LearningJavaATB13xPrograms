@@ -1,7 +1,7 @@
 package Task_15July;
 /*
 4. Program: Character Frequency Counter
-📘 Description:
+Description:
 Count how many times each character appears in a string using HashMap.
 Input:"aabbccddeeff"
 Output:

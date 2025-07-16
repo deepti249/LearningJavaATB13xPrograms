@@ -1,7 +1,7 @@
 package Task_15July;
 /*
 8. Program: Find Most Frequent Character in String
-📘 Description:
+Description:
 Count frequency of characters and find the one with the highest count.
 Input: "aaaabbbcc"
 Output:  Most frequent character is: a (4 times)

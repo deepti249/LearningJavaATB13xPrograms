@@ -1,9 +1,7 @@
 package Task_15July;
 /*
 2. Program: Iterate Over HashMap in Three Ways
-
-📘 Description:
-
+Description:
 Create a map with key-value pairs and iterate using:
 entrySet()
 keySet()
@@ -21,14 +19,14 @@ public class Program_2_IterateOverHashMapinThreeWays {
     {
         // Create and populate the HashMap
         HashMap<String, String> map = new HashMap<>();
-        map.put("Name", "Amol");
+        map.put("Name", "Dipak");
         map.put("Role", "Tester");
         map.put("Level", "Senior");
 
         System.out.println("Iteration using entrySet():");
-        for (Map.Entry<String, String> entry : map.entrySet())
+        for (Map.Entry<String, String> hm : map.entrySet())
         {
-            System.out.println(entry.getKey() + " -> " + entry.getValue());
+            System.out.println(hm.getKey() + " -> " + hm.getValue());
         }
 
         System.out.println("Iteration using keySet():");
@@ -42,8 +40,8 @@ public class Program_2_IterateOverHashMapinThreeWays {
         Iterator<Map.Entry<String, String>> iterator = map.entrySet().iterator();
         while (iterator.hasNext())
         {
-            Map.Entry<String, String> entry = iterator.next();
-            System.out.println(entry.getKey() + " -> " + entry.getValue());
+            Map.Entry<String, String> hm = iterator.next();
+            System.out.println(hm.getKey() + " -> " + hm.getValue());
         }
     }
 

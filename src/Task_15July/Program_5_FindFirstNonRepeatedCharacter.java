@@ -1,7 +1,7 @@
 package Task_15July;
 /*
 5. Program: Find First Non-Repeated Character
-📘 Description:
+Description:
 Prints the first character that appears only once using LinkedHashMap.
 Input:→"aabbccdeeff"
 Output:→ First non-repeated character is: d

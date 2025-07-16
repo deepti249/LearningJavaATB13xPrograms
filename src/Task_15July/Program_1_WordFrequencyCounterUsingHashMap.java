@@ -1,8 +1,8 @@
 package Task_15July;
 /*
 1. Program: Word Frequency Counter Using HashMap
-📘 Description:
-Takes a sentence and prints how many times each word appears using HashMap.
+Description:
+Take a sentence and print how many times each word appears using HashMap.
 Input: "java is easy and java is powerful"
 Output:
 java -> 2
